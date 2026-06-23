@@ -103,21 +103,6 @@ hobbies:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🎉 Event Management Web App
-`MERN Stack` `Team Registration` `Authentication` `Payment Integration` `REST APIs`
-
-### 🛍 NEOM INDIA Backend
-`Express.js` `MongoDB` `JWT Authentication` `Razorpay Integration` `Scalable Architecture` `Role Based Access Control`
-
-### 🌐 Portfolio Website
-`Next.js App Router` `Tailwind CSS` `Framer Motion` `MongoDB` `Responsive UI`
-
-</div>
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
